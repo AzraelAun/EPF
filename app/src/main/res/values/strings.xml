@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EPF</string>
+    <string name="epf_investment_scheme_eligibility_calculator">EPF Investment Scheme Eligibility Calculator</string>
+    <string name="age_years">Your Age :</string>
+    <string name="min_basic_saving_rm">Min. Basic Saving (RM) :</string>
+    <string name="button">Button</string>
+    <string name="calculate">calculate</string>
+</resources>
